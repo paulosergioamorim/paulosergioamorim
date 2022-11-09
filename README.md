@@ -1,16 +1,33 @@
-### Hi there 👋
+## Github Profile
 
-<!--
-**paulosergioamorim/paulosergioamorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Name: Paulo Sérgio Amorim Mônico
+- Age: 17 years
+- Country: Brazil
+- Focus: React.js and .NET
 
-Here are some ideas to get you started:
+### Programming Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- Java
+- HTML + CSS + Javascript
+- Typescript
+- SQL
+- Python
+
+## Frameworks and Technologies
+
+- .NET
+- React.js
+- Next.js
+- Firebase
+- Postgres SQL
+- Spring Boot
+- Hibernate
+- Selenium
+- Github
+
+### Tools
+
+- IntelliJ IDEA
+- Rider
+- VS Code
