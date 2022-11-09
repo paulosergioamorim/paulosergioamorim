@@ -11,14 +11,17 @@
 - Java
 - HTML + CSS + Javascript
 - Typescript
+- Sass
 - SQL
 - Python
 
 ## Frameworks and Technologies
 
 - .NET
+- Node.js
 - React.js
 - Next.js
+- Vite.js
 - Firebase
 - Postgres SQL
 - Spring Boot
