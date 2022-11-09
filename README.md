@@ -1,11 +1,11 @@
-## Github Profile
+## Profile
 
 - Name: Paulo Sérgio Amorim Mônico
 - Age: 17 years
 - Country: Brazil
 - Focus: React.js and .NET
 
-### Programming Languages
+## Programming Languages
 
 - C#
 - Java
@@ -26,7 +26,7 @@
 - Selenium
 - Github
 
-### Tools
+## Tools
 
 - IntelliJ IDEA
 - Rider
