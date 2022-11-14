@@ -32,8 +32,7 @@
 
 ## Tools
 
-- IntelliJ IDEA
-- Rider
+- Jetbrains
 - VS Code
 
-[![My Skills](https://skillicons.dev/icons?i=intellij,rider,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
