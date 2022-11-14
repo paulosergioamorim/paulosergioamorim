@@ -14,7 +14,7 @@
 - SQL
 - Python
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,html,css,js,ts,sass,sql,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,html,css,js,ts,sass,mysql,py)](https://skillicons.dev)
 
 ## Frameworks and Technologies
 
@@ -27,6 +27,8 @@
 - Hibernate
 - Selenium
 - Github
+
+[![My Skills](https://skillicons.dev/icons?i=dotnet,node,vite,react,next,firebase,postgres,springboot,hibernate,selenium,github)](https://skillicons.dev)
 
 ## Tools
 
