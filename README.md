@@ -14,7 +14,7 @@
 - SQL
 - Python
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,html,css,js,ts,sass,mysql,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,html,css,js,ts,sass,py)](https://skillicons.dev)
 
 ## Frameworks and Technologies
 
@@ -35,3 +35,5 @@
 - IntelliJ IDEA
 - Rider
 - VS Code
+
+[![My Skills](https://skillicons.dev/icons?i=intellij,rider,vscode)](https://skillicons.dev)
