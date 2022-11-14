@@ -28,7 +28,7 @@
 - Selenium
 - Github
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,node,vite,react,next,firebase,postgres,springboot,hibernate,selenium,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,vite,react,next,firebase,postgres,springboot,hibernate,selenium,github)](https://skillicons.dev)
 
 ## Tools
 
