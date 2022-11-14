@@ -14,6 +14,8 @@
 - SQL
 - Python
 
+[![My Skills](https://skillicons.dev/icons?i=cs,java,html,css,js,ts,sass,sql,py)](https://skillicons.dev)
+
 ## Frameworks and Technologies
 
 - .NET
