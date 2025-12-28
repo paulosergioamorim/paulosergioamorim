@@ -1,18 +1,16 @@
-## Olá 👋
+### 📊 Minhas Estatísticas do GitHub
 
-<!--
-**paulosergioamorim/paulosergioamorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulosergioamorim&show_icons=true&count_private=true&theme=dracula&include_all_commits=true" />
 
-Here are some ideas to get you started:
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosergioamorim&layout=compact&langs_count=7&count_private=true&theme=dracula" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulosergioamorim)](https://github.com/paulosergioamorim/github-readme-stats)
+### 🏆 GitHub Trophy
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=paulosergioamorim&theme=dracula&column=7&no-bg=true" alt="trophy" />
+  </a>
+</p>
