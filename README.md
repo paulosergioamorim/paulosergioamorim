@@ -6,4 +6,4 @@
 - Interesses: C, C#, Web Dev, Algoritmos, Data Science, Linux
 - Meu setup: Arch Linux, Sway, Kitty, Tmux, Zsh, Neovim
   
-![Stats](https://github-readme-stats-paulosergioamorim8589-k9pbwgte.leapcell.dev/api/?username=paulosergioamorim&layout=compact) &nbsp; ![Top Langs](https://github-readme-stats-paulosergioamorim8589-k9pbwgte.leapcell.dev/api/top-langs/?username=paulosergioamorim&layout=compact&hide=jupyter%20notebook)
+<!-- ![Stats](https://github-readme-stats-paulosergioamorim8589-k9pbwgte.leapcell.dev/api/?username=paulosergioamorim&layout=compact) &nbsp; ![Top Langs](https://github-readme-stats-paulosergioamorim8589-k9pbwgte.leapcell.dev/api/top-langs/?username=paulosergioamorim&layout=compact&hide=jupyter%20notebook) -->
