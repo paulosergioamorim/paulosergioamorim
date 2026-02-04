@@ -3,6 +3,7 @@
 - Formado Técnico em Informática para Internet pelo Instituto Federal do Espírito Santo
 - Bacharelando em Ciência da Computação pela Universidade Federal do Espírito Santo
 - Consultor de Tecnologia na CT Junior (desenvolvi aplicações front-end e atualmente em foco no back-end)
+- Engenheiro de Machine Learning no Laboratório de Internet e Ciência de Dados (Ufes)
 - Interesses: C, C#, Web Dev, Algoritmos, Data Science, Linux
 - Meu setup: Arch Linux, Sway, Kitty, Tmux, Zsh, Neovim
   
