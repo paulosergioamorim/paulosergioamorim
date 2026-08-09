@@ -1,7 +1,7 @@
 ### Hello, World!
 
 - Backend Development at Laboratório de Internet e Ciência de Dados (UFES) \(fev. 2026 - present\)
-- I was Web Developer at CT Junior \(dec. 2024 - fev. 2026\)
+- Web Developer at CT Junior \(dec. 2024 - fev. 2026\)
 - Undergraduate in Computer Science at Universidade Federal do Espírito Santo \(2024 - present\)
 - IT Technician for Internet from Instituto Federal do Espírito Santo \(2020 - 2023\)
 - My interests: C, Go, Linux, Algorithms, Data Science, Web Development
