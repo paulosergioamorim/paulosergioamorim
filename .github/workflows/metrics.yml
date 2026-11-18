@@ -17,6 +17,6 @@ jobs:
           filename: metrics-languages.svg
           base: ""
           plugin_languages: yes
-          plugin_languages_ignored: html, css, makefile
+          plugin_languages_ignored: html, css, makefile, jupyter notebook
           plugin_languages_limit: 6
           plugin_languages_details: percentage
