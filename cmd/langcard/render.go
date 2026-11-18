@@ -48,6 +48,13 @@ const styles = `.t{font:600 16px system-ui,-apple-system,"Segoe UI",sans-serif;f
 .p{font:12px system-ui,-apple-system,"Segoe UI",sans-serif;fill:#656d76}
 .bg{fill:#ffffff;stroke:#d0d7de}
 .tr{fill:#eaeef2}
+.b{transform-box:fill-box;transform-origin:left center;animation:grow .9s cubic-bezier(.2,.7,.2,1) both}
+.f{animation:fade .5s ease-out both}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@media (prefers-reduced-motion: reduce){
+.b,.f{animation:none}
+}
 @media (prefers-color-scheme: dark){
 .t,.l{fill:#e6edf3}
 .p{fill:#8d96a0}
@@ -75,8 +82,9 @@ func render(title string, entries []entry) string {
 		fill := float64(barW) * e.Pct / maxPct
 		fmt.Fprintf(&b, `<text class="l" x="%d" y="%d">%s</text>`+"\n", padding, y+14, html.EscapeString(e.Name))
 		fmt.Fprintf(&b, `<rect class="tr" x="%d" y="%d" width="%d" height="8" rx="4"/>`+"\n", padding+labelW, y+6, barW)
-		fmt.Fprintf(&b, `<rect x="%d" y="%d" width="%.1f" height="8" rx="4" fill="%s"/>`+"\n", padding+labelW, y+6, fill, colorFor(e.Name, i))
-		fmt.Fprintf(&b, `<text class="p" x="%d" y="%d">%.1f%%</text>`+"\n", padding+labelW+barW+10, y+14, e.Pct)
+		delay := float64(i) * 0.15
+		fmt.Fprintf(&b, `<rect class="b" style="animation-delay:%.2fs" x="%d" y="%d" width="%.1f" height="8" rx="4" fill="%s"/>`+"\n", delay, padding+labelW, y+6, fill, colorFor(e.Name, i))
+		fmt.Fprintf(&b, `<text class="p f" style="animation-delay:%.2fs" x="%d" y="%d">%.1f%%</text>`+"\n", delay+0.6, padding+labelW+barW+10, y+14, e.Pct)
 	}
 	b.WriteString("</svg>\n")
 	return b.String()
