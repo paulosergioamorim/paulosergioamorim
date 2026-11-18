@@ -7,4 +7,4 @@
 - My interests: C, Go, Linux, Algorithms, Data Science, Web Development
 - My setup: Arch Linux, Sway, Kitty, Tmux, Zsh, Neovim
 
-![Linguagens mais usadas](profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![Linguagens mais usadas por commit](profile-summary-card-output/github/2-most-commit-language.svg)
