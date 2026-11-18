@@ -7,4 +7,4 @@
 - My interests: C, Go, Linux, Algorithms, Data Science, Web Development
 - My setup: Arch Linux, Sway, Kitty, Tmux, Zsh, Neovim
 
-![Linguagens mais usadas](metrics-languages.svg)
+![Linguagens mais usadas](langcard.svg)
