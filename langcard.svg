@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="278" viewBox="0 0 495 278" role="img" aria-label="Most used languages">
+<style>
+.t{font:600 16px system-ui,-apple-system,"Segoe UI",sans-serif;fill:#1f2328}
+.l{font:13px system-ui,-apple-system,"Segoe UI",sans-serif;fill:#1f2328}
+.p{font:12px system-ui,-apple-system,"Segoe UI",sans-serif;fill:#656d76}
+.bg{fill:#ffffff;stroke:#d0d7de}
+.tr{fill:#eaeef2}
+@media (prefers-color-scheme: dark){
+.t,.l{fill:#e6edf3}
+.p{fill:#8d96a0}
+.bg{fill:#0d1117;stroke:#30363d}
+.tr{fill:#21262d}
+}
+</style>
+<rect class="bg" x="0.5" y="0.5" width="494" height="277" rx="6"/>
+<text class="t" x="24" y="34">Most used languages</text>
+<text class="l" x="24" y="70">C</text>
+<rect class="tr" x="134" y="62" width="270" height="8" rx="4"/>
+<rect x="134" y="62" width="270.0" height="8" rx="4" fill="#555555"/>
+<text class="p" x="414" y="70">48.6%</text>
+<text class="l" x="24" y="100">TypeScript</text>
+<rect class="tr" x="134" y="92" width="270" height="8" rx="4"/>
+<rect x="134" y="92" width="128.2" height="8" rx="4" fill="#3178c6"/>
+<text class="p" x="414" y="100">23.1%</text>
+<text class="l" x="24" y="130">Java</text>
+<rect class="tr" x="134" y="122" width="270" height="8" rx="4"/>
+<rect x="134" y="122" width="81.3" height="8" rx="4" fill="#b07219"/>
+<text class="p" x="414" y="130">14.6%</text>
+<text class="l" x="24" y="160">Shell</text>
+<rect class="tr" x="134" y="152" width="270" height="8" rx="4"/>
+<rect x="134" y="152" width="20.1" height="8" rx="4" fill="#89e051"/>
+<text class="p" x="414" y="160">3.6%</text>
+<text class="l" x="24" y="190">Solidity</text>
+<rect class="tr" x="134" y="182" width="270" height="8" rx="4"/>
+<rect x="134" y="182" width="14.7" height="8" rx="4" fill="#bf3989"/>
+<text class="p" x="414" y="190">2.6%</text>
+<text class="l" x="24" y="220">Python</text>
+<rect class="tr" x="134" y="212" width="270" height="8" rx="4"/>
+<rect x="134" y="212" width="12.0" height="8" rx="4" fill="#3572A5"/>
+<text class="p" x="414" y="220">2.2%</text>
+<text class="l" x="24" y="250">Other</text>
+<rect class="tr" x="134" y="242" width="270" height="8" rx="4"/>
+<rect x="134" y="242" width="29.3" height="8" rx="4" fill="#8b949e"/>
+<text class="p" x="414" y="250">5.3%</text>
+</svg>
