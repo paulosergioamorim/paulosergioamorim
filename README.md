@@ -6,3 +6,5 @@
 - IT Technician for Internet from Instituto Federal do Espírito Santo (Ifes) \(2020 - 2023\)
 - My interests: C, Go, Linux, Algorithms, Data Science, Web Development
 - My setup: Arch Linux, Sway, Kitty, Tmux, Zsh, Neovim
+
+![Linguagens mais usadas](profile-summary-card-output/github_dark/1-repos-per-language.svg)
