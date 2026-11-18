@@ -23,11 +23,11 @@ algorithms and data science.
 
 ### Languages
 
-![Languages](https://skillicons.dev/icons?i=c,go,py,js,ts,bash&perline=6)
+![Languages](https://skillicons.dev/icons?i=c,go,java,py,js,ts,bash&perline=7)
 
 ### Tools and technologies
 
-![Tools](https://skillicons.dev/icons?i=linux,git,docker,postgres,fastapi,githubactions&perline=6)
+![Tools](https://skillicons.dev/icons?i=linux,git,docker,postgres,spring,fastapi,githubactions&perline=7)
 
 ### Interests
 
