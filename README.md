@@ -45,6 +45,4 @@ C, Go, Linux, Algorithms, Data Science, Web Development
 
 Arch Linux, Sway, Kitty, Tmux, Zsh, Neovim
 
-### Most used languages
-
 ![Most used languages](langcard.svg)
