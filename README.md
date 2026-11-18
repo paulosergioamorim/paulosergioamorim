@@ -35,7 +35,13 @@ C, Go, Linux, Algorithms, Data Science, Web Development
 
 ### Setup
 
-![Setup](https://skillicons.dev/icons?i=arch,neovim&perline=6)
+<p>
+  <img src="https://skillicons.dev/icons?i=arch,neovim&perline=6" height="48" alt="Arch Linux, Neovim">
+  <img src="assets/icons/sway.svg" height="48" alt="Sway">
+  <img src="assets/icons/kitty.svg" height="48" alt="Kitty">
+  <img src="assets/icons/tmux.svg" height="48" alt="Tmux">
+  <img src="assets/icons/zsh.svg" height="48" alt="Zsh">
+</p>
 
 Arch Linux, Sway, Kitty, Tmux, Zsh, Neovim
 
