@@ -27,7 +27,7 @@ algorithms and data science.
 
 ### Tools and technologies
 
-![Tools](https://skillicons.dev/icons?i=linux,git,docker,postgres,spring,fastapi,githubactions&perline=7)
+![Tools](https://skillicons.dev/icons?i=linux,git,docker,postgres,spring,fastapi,react,githubactions&perline=8)
 
 ### Interests
 
