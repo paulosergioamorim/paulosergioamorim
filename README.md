@@ -27,7 +27,20 @@ algorithms and data science.
 
 ### Tools and technologies
 
-![Tools and technologies](assets/tools.svg)
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" height="48" alt="Spring">
+  <img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="FastAPI">
+  <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux">
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git">
+  <img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker">
+  <img src="https://skillicons.dev/icons?i=sklearn" height="48" alt="scikit-learn">
+  <img src="assets/icons/pandas.svg" height="48" alt="pandas">
+  <img src="assets/icons/numpy.svg" height="48" alt="NumPy">
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="React">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="Next.js">
+  <img src="assets/icons/tanstackquery.svg" height="48" alt="TanStack Query">
+</p>
 
 ### Setup
 
