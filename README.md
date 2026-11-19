@@ -23,11 +23,35 @@ algorithms and data science.
 
 ### Languages
 
-![Languages](https://skillicons.dev/icons?i=c,go,java,py,js,ts,bash&perline=7)
+![Languages](https://skillicons.dev/icons?i=c,go,java,py,js,ts&perline=6)
 
 ### Tools and technologies
 
-![Tools](https://skillicons.dev/icons?i=linux,git,docker,postgres,spring,fastapi,react,githubactions&perline=8)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>Frontend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs" height="48" alt="React, Next.js">
+      <img src="assets/icons/reactquery.svg" height="48" alt="React Query">
+    </td>
+    <td valign="top" width="50%">
+      <b>Backend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=spring,fastapi,postgres" height="48" alt="Spring, FastAPI, PostgreSQL">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <b>Infra / DevOps</b><br><br>
+      <img src="https://skillicons.dev/icons?i=linux,git,docker,githubactions,bash" height="48" alt="Linux, Git, Docker, GitHub Actions, Bash">
+    </td>
+    <td valign="top" width="50%">
+      <b>Data Science</b><br><br>
+      <img src="https://skillicons.dev/icons?i=sklearn" height="48" alt="scikit-learn">
+      <img src="assets/icons/pandas.svg" height="48" alt="pandas">
+      <img src="assets/icons/numpy.svg" height="48" alt="NumPy">
+    </td>
+  </tr>
+</table>
 
 ### Interests
 
@@ -36,11 +60,12 @@ C, Go, Linux, Algorithms, Data Science, Web Development
 ### Setup
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arch,neovim&perline=6" height="48" alt="Arch Linux, Neovim">
+  <img src="https://skillicons.dev/icons?i=arch" height="48" alt="Arch Linux">
   <img src="assets/icons/sway.svg" height="48" alt="Sway">
   <img src="assets/icons/kitty.svg" height="48" alt="Kitty">
   <img src="assets/icons/tmux.svg" height="48" alt="Tmux">
   <img src="assets/icons/zsh.svg" height="48" alt="Zsh">
+  <img src="https://skillicons.dev/icons?i=neovim" height="48" alt="Neovim">
 </p>
 
 Arch Linux, Sway, Kitty, Tmux, Zsh, Neovim
