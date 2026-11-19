@@ -32,7 +32,7 @@ algorithms and data science.
     <td valign="top" width="50%">
       <b>Frontend</b><br><br>
       <img src="https://skillicons.dev/icons?i=react,nextjs" height="48" alt="React, Next.js">
-      <img src="assets/icons/reactquery.svg" height="48" alt="React Query">
+      <img src="assets/icons/tanstackquery.svg" height="48" alt="TanStack Query">
     </td>
     <td valign="top" width="50%">
       <b>Backend</b><br><br>
@@ -56,14 +56,12 @@ algorithms and data science.
 ### Setup
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arch" height="48" alt="Arch Linux">
-  <img src="assets/icons/sway.svg" height="48" alt="Sway">
-  <img src="assets/icons/kitty.svg" height="48" alt="Kitty">
-  <img src="assets/icons/tmux.svg" height="48" alt="Tmux">
-  <img src="assets/icons/zsh.svg" height="48" alt="Zsh">
-  <img src="https://skillicons.dev/icons?i=neovim" height="48" alt="Neovim">
+  <a href="https://archlinux.org/"><img src="https://skillicons.dev/icons?i=arch" height="48" alt="Arch Linux"></a>
+  <a href="https://swaywm.org/"><img src="assets/icons/sway.svg" height="48" alt="Sway"></a>
+  <a href="https://sw.kovidgoyal.net/kitty/"><img src="assets/icons/kitty.svg" height="48" alt="Kitty"></a>
+  <a href="https://github.com/tmux/tmux/wiki"><img src="assets/icons/tmux.svg" height="48" alt="Tmux"></a>
+  <a href="https://www.zsh.org/"><img src="assets/icons/zsh.svg" height="48" alt="Zsh"></a>
+  <a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim" height="48" alt="Neovim"></a>
 </p>
-
-Arch Linux, Sway, Kitty, Tmux, Zsh, Neovim
 
 ![Most used languages](langcard.svg)
