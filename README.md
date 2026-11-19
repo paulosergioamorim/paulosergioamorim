@@ -23,7 +23,7 @@ algorithms and data science.
 
 ### Languages
 
-![Languages](https://skillicons.dev/icons?i=c,go,java,py,js,ts&perline=6)
+![Languages](https://skillicons.dev/icons?i=c,go,java,py,ts&perline=5)
 
 ### Tools and technologies
 
