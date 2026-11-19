@@ -53,10 +53,6 @@ algorithms and data science.
   </tr>
 </table>
 
-### Interests
-
-C, Go, Linux, Algorithms, Data Science, Web Development
-
 ### Setup
 
 <p>
