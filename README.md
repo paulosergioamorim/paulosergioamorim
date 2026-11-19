@@ -42,7 +42,7 @@ algorithms and data science.
   <tr>
     <td valign="top" width="50%">
       <b>Infra / DevOps</b><br><br>
-      <img src="https://skillicons.dev/icons?i=linux,git,docker,githubactions,bash" height="48" alt="Linux, Git, Docker, GitHub Actions, Bash">
+      <img src="https://skillicons.dev/icons?i=linux,git,docker" height="48" alt="Linux, Git, Docker">
     </td>
     <td valign="top" width="50%">
       <b>Data Science</b><br><br>
